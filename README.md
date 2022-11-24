@@ -1,5 +1,5 @@
 ### Opa, eu sou o Diogo Vidal!!! 👋
-- 🌱 Foco no Front-End
+- 🌱 Step By Step
 - 📫 Contato: diogovidal0702@gmail.com
 - 😄 Em um constante aprendizado
 <div align="center">
