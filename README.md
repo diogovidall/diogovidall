@@ -1,7 +1,7 @@
 ### Opa, eu sou o Diogo Vidal!!! 👋
 - 🌱 Step By Step
-- 📫 Contato: diogovidal0702@gmail.com
-- 😄 Em um constante aprendizado
+- 📫 Contact: diogovidal0702@gmail.com
+- 😄 developing is my job
 <div align="center">
   <a href="https://github.com/diogovidall">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogovidall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Diogo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
