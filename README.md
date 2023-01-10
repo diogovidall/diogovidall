@@ -1,5 +1,5 @@
 ### Opa, eu sou o Diogo Vidal!!! 👋
-- 🌱 Step By Step
+- 🌱 Sempre postando projetos legais para o seu dia a dia e aprendizado!
 - 📫 Contact: diogovidal0702@gmail.com
 - 😄 developing is my job
 <div style="display: inline_block"><br>
