@@ -1,7 +1,14 @@
-### Opa, eu sou o Diogo Vidal!!! 👋
-- 🌱 Sempre postando projetos legais para o seu dia a dia e aprendizado!
+### Welcome, I'm am Diogo Vidal!👋
+<h1>Bem Vindo ao meu Github</h1>
+
+- 📷 Posto vídeos sobre tecnologia e programação no meu Instagram!
+
+- 💻 Sempre postando meus projetos por aqui.
+
 - 📫 Contact: diogovidal0702@gmail.com
-- 😄 developing is my job
+
+- 🚀 developing is my job.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
