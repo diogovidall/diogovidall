@@ -3,7 +3,7 @@
 
 - 📷 Posto vídeos sobre tecnologia e programação no meu Instagram!
 
-- 💻 Sempre postando meus projetos por aqui.
+- 💻 Apaixonado pelo Front-End.
 
 - 📫 Contact: diogovidal0702@gmail.com
 
