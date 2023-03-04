@@ -1,9 +1,9 @@
-### Welcome, I'm am Diogo Vidal!👋
+### Nice to meet you! 👋
 <h1>Bem Vindo ao meu Github</h1>
 
 - 📷 Posto vídeos sobre tecnologia e programação no meu Instagram!
 
-- 💻 Em um constante aprendizado.
+- 💻 Em um constante aprendizado e desenvolvimento profissional
 
 - 📫 Contact: diogovidal0702@gmail.com
 
