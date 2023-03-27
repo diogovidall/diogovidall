@@ -1,23 +1,33 @@
-### Nice to meet you! 👋
-<h1>Bem Vindo ao meu Github</h1>
+### Nice to meet you!  
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+<h1>I'm Diogo Vidal, Welcome!</h1>
 
 - 📷 Posto vídeos sobre tecnologia e programação no meu Instagram!
 
-- 💻 Em um constante aprendizado e desenvolvimento profissional
+- 💻 I'm currently learning [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [ReactJS](https://reactjs.org/) | [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 - 📫 Contact: diogovidal0702@gmail.com
 
-- 🚀 developing is my job.
+- ⚡ Future Front-end Developer
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Diogo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" >
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
 </div>
 
-##
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=diogovidall&show_icons=true&theme=vision-friendly-dark" alt="diogovidall stats"/> <br>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogovidall&layout=compact&theme=vision-friendly-dark" alt="diogovidall most languages"/>
+</p>
 
 <div>
  <a href="https://www.instagram.com/odiogovidall/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
