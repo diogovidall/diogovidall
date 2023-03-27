@@ -5,7 +5,7 @@
          width="45" />
 <h1>I'm Diogo Vidal, Welcome!</h1>
 
-- 📷 Posto vídeos sobre tecnologia e programação no meu Instagram!
+- 📷 I post videos about technology and programming on my Instagram!
 
 - 💻 I'm currently learning [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [ReactJS](https://reactjs.org/) | [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
@@ -24,10 +24,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=diogovidall&show_icons=true&theme=vision-friendly-dark" alt="diogovidall stats"/> <br>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogovidall&layout=compact&theme=vision-friendly-dark" alt="diogovidall most languages"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogovidall&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogovidall&hide_progress=false)](https://github.com/diogovidall/github-readme-stats) <br>
+
+## 📱 &nbsp;Contact me
 
 <div>
  <a href="https://www.instagram.com/odiogovidall/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
