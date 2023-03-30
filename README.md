@@ -7,11 +7,9 @@
 
 - 📷 I post videos about technology and programming on my Instagram!
 
-- 💻 I'm currently learning [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [ReactJS](https://reactjs.org/) | [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- 💻 I'm currently learning [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [ReactJS](https://reactjs.org/) | [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [MySQL](https://www.mysql.com/)
 
 - 📫 Contact: diogovidal0702@gmail.com
-
-- ⚡ Future Front-end Developer
 
 <div style="display: inline_block"><br>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
