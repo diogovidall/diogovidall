@@ -7,7 +7,7 @@
 
 - 📷 I post videos about technology and programming on my Instagram!
 
-- 💻 Always improving my skills in programming and focusing on MySQL
+- 💻 Always improving my skills in programming 🧑🏻‍💻 
 
 - 📫 Contact: diogovidal0702@gmail.com
 
