@@ -5,11 +5,11 @@
          width="45" />
 <h1>I'm Diogo Vidal, Welcome!</h1>
 
-- 📷 I post videos about technology and programming on my Instagram!
+- 🤖 RPA Developer Trainee!
 
 - 💻 Always improving my skills in programming 🧑🏻‍💻 
 
-- 📫 Contact: diogovidal0702@gmail.com
+- 📫 Contact: diogo.vidal@sptech.school
 
 <div style="display: inline_block"><br>
          <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
