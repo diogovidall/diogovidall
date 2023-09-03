@@ -5,7 +5,7 @@
          width="45" />
 <h1>I'm Diogo Vidal, Welcome!</h1>
 
-- 🤖 RPA Developer Trainee!
+- ☁️ Salesforce Developer
 
 - 💻 Always improving my skills in programming 🧑🏻‍💻 
 
@@ -22,6 +22,7 @@
     <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="apex" src="https://img.shields.io/badge/Apex-007396?style=for-the-badge&logo=apex&logoColor=white">
     <img alt="robocorp" src="https://img.shields.io/badge/Robocorp-64B587?style=for-the-badge&logo=robocorp&logoColor=white">
 </div>
    
