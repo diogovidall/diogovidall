@@ -7,9 +7,12 @@
 
 - ☁️ Salesforce Developer
 
+- 🏞️ Traiblazer: https://www.salesforce.com/trailblazer/diogovidal
+
 - 💻 Always improving my skills in programming 🧑🏻‍💻 
 
 - 📫 Contact: diogo.vidal@sptech.school
+
 
 <div style="display: inline_block"><br>
      <div style="display: inline_block">
